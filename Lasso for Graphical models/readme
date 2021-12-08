@@ -1,1 +1,2 @@
-
+All figures included in the report are in the Produced figs directory and can be reproduced by retreiving data from corresponding pickle file.
+Customized classes and functions that were imported in the notebook are included in the F.py file.
